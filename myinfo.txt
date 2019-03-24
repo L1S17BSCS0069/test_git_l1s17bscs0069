@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Name: MUmer
+=======
+"Name: Umer Sattar" 
+>>>>>>> 81ed55e7c05a5ca1bcdef90677a47c41120e91b3
 Email:umer.sattar309@ucp.edu.pk
 Student Of Information Technology
 <<<<<<< HEAD
@@ -6,3 +10,4 @@ UCP
 =======
 UCP
 >>>>>>> 21db0cd1a6848488fff5587268111239546f9ac4
+"Name: Muhammad Umer Sattar" 
