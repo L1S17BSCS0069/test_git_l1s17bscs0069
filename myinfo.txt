@@ -1,4 +1,8 @@
 Name: MUmer
 Email:umer.sattar309@ucp.edu.pk
 Student Of Information Technology
+<<<<<<< HEAD
 UCP
+=======
+UCP
+>>>>>>> 21db0cd1a6848488fff5587268111239546f9ac4
